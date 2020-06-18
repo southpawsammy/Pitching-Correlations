@@ -9,4 +9,4 @@ between swing and miss rates and each of the average breaks in a pitcher's arsen
 didn't have an offspeed or breaking ball pitch I just input the average break of that pitch to make the dataset uniform. 
 
 The results as far as I can tell back up the numbers in the correlation analysis and show that strongest relationship for swing and miss rates
-in the MLB is movement in a pitcher's fastball. 
+in the MLB is movement in a pitcher's fastball.   
