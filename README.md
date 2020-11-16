@@ -10,3 +10,7 @@ didn't have an offspeed or breaking ball pitch I just input the average break of
 
 The results as far as I can tell back up the numbers in the correlation analysis and show that strongest relationship for swing and miss rates
 in the MLB is movement in a pitcher's fastball.   
+
+More specifically, a fastball's break has a stronger relationship with swing and miss rates than a breaking ball's break. As it relates to a 
+hitter's approach, a nasty fastball is much harder to hit than a nasty breaking ball. Concluding, it is easier for a hitter to
+think fastball, adjust breaking ball than to think breaking ball, adjust fastball 
